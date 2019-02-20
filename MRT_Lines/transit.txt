@@ -1,0 +1,46 @@
+NS4/BP1
+Choa Chu Kang
+NS1/EW24
+Jurong East
+NS17/CC15
+Bishan
+BP6/DT1
+Bukit Panjang
+CC19/DT9
+Botanic Gardens
+NS21/DT11
+Newton
+NE7/DT12
+Little India
+EW12/DT14
+Bugis
+DT15/CC4
+Promenade
+DT16/CE1
+Bayfront
+NS27/CE2
+Marina Bay
+NE4/DT19
+Chinatown
+CC10/DT26
+MacPherson
+EW2/DT32
+Tampines
+CG1/DT35
+Expo
+EW8/CC9
+Paya Lebar
+NE12/CC13
+Serangoon
+EW13/NS25
+City Hall
+EW14/NS26
+Raffles Place
+EW16/NE3
+Outram Park
+EW21/CC22
+Bouna Vista
+NE1/CC29
+Harbourfront
+NS24/NE6/CC1
+Dhoby Ghaut

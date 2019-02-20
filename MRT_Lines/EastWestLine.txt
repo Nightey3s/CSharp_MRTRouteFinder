@@ -1,0 +1,66 @@
+EW1
+Pasir Ris
+EW2
+Tampines
+EW3
+Simei
+EW4
+Tanah Merah
+EW5
+Bedok
+EW6
+Kembangan
+EW7
+Eunos
+EW8
+Paya Lebar
+EW9
+Aljunied
+EW10
+Kallang
+EW11
+Lavender
+EW12
+Bugis
+EW13
+City Hall
+EW14
+Raffles Place
+EW15
+Tanjong Pagar
+EW16
+Outram Park
+EW17
+Tiong Bahru
+EW18
+Redhill
+EW19
+Queenstown
+EW20
+Commonwealth
+EW21
+Buona Vista
+EW22
+Dover
+EW23
+Clementi
+EW24
+Jurong East
+EW25
+Chinese Garden
+EW26
+Lakeside
+EW27
+Boon Lay
+EW28
+Pioneer
+EW29
+Joo Koon
+EW30
+Gul Circle
+EW31
+Tuas Crescent
+EW32
+Tuas West Road
+EW33
+Tuas Link

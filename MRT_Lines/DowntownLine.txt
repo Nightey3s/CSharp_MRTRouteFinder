@@ -1,0 +1,72 @@
+DT1
+Bukit Panjang
+DT2
+Cashew
+DT3
+Hillview
+DT5
+Beauty World
+DT6
+King Albert Park
+DT7
+Sixth Avenue
+DT8
+Tan Kah Kee
+DT9
+Botanic Gardens
+DT10
+Stevens
+DT11
+Newton
+DT12
+Little India
+DT13
+Rochor
+DT14
+Bugis
+DT15
+Promenade
+DT16
+Bayfront
+DT17
+Downtown
+DT18
+Telok Ayer
+DT19
+Chinatown
+DT20
+Fort Canning
+DT21
+Bencoolen
+DT22
+Jalan Besar
+DT23
+Bendemeer
+DT24
+Geylang Bahru
+DT25
+Mattar
+DT26
+MacPherson
+DT27
+Ubi
+DT28
+Kaki Bukit
+DT29
+Bedok North
+DT30
+Bedok Reservoir
+DT31
+Tampines West
+DT32
+Tampines
+DT33
+Tampines East
+DT34
+Upper Changi
+DT35
+Expo
+DT36
+Xilin
+DT37
+Sungei Bedok

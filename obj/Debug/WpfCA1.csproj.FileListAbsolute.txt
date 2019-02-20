@@ -1,0 +1,64 @@
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA1\WpfCA1\obj\Debug\WpfCA1.csprojAssemblyReference.cache
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA1\WpfCA1\obj\Debug\MainWindow.g.cs
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA1\WpfCA1\obj\Debug\App.g.cs
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA1\WpfCA1\obj\Debug\WpfCA1_MarkupCompile.cache
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA1\WpfCA1\obj\Debug\WpfCA1_MarkupCompile.lref
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA1\WpfCA1\obj\Debug\MainWindow.baml
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA1\WpfCA1\obj\Debug\WpfCA1.g.resources
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA1\WpfCA1\obj\Debug\WpfCA1.pdb
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA1\WpfCA1\bin\Debug\WpfCA1.exe.config
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA1\WpfCA1\bin\Debug\WpfCA1.exe
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA1\WpfCA1\bin\Debug\WpfCA1.pdb
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA1\WpfCA1\obj\Debug\WpfCA1.Properties.Resources.resources
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA1\WpfCA1\obj\Debug\WpfCA1.csproj.GenerateResource.cache
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA1\WpfCA1\obj\Debug\WpfCA1.csproj.CoreCompileInputs.cache
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA1\WpfCA1\obj\Debug\WpfCA1.exe
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\WpfCA1.csprojAssemblyReference.cache
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\MainWindow.g.cs
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\App.g.cs
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\WpfCA1_MarkupCompile.cache
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\WpfCA1_MarkupCompile.lref
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\WpfCA1.exe
+C:\Users\Ang\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\WpfCA1.pdb
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\bin\Debug\WpfCA1.exe.config
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\WpfCA1.exe
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\WpfCA1.pdb
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\bin\Debug\WpfCA1.exe
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\bin\Debug\WpfCA1.pdb
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\WpfCA1.csprojResolveAssemblyReference.cache
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\MainWindow.g.cs
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\App.g.cs
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\WpfCA1_MarkupCompile.cache
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\WpfCA1_MarkupCompile.lref
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\MainWindow.baml
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\WpfCA1.g.resources
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\WpfCA1.Properties.Resources.resources
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\p1829035_p1828711_1A22\WpfCA1\obj\Debug\WpfCA1.csproj.GenerateResource.Cache
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\CA2\WpfCA1\bin\Debug\WpfCA1.exe.config
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\CA2\WpfCA1\obj\Debug\WpfCA1.exe
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\CA2\WpfCA1\obj\Debug\WpfCA1.pdb
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\CA2\WpfCA1\bin\Debug\WpfCA1.exe
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\CA2\WpfCA1\bin\Debug\WpfCA1.pdb
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\CA2\WpfCA1\obj\Debug\WpfCA1.csprojResolveAssemblyReference.cache
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\CA2\WpfCA1\obj\Debug\MainWindow.g.cs
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\CA2\WpfCA1\obj\Debug\App.g.cs
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\CA2\WpfCA1\obj\Debug\WpfCA1_MarkupCompile.cache
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\CA2\WpfCA1\obj\Debug\WpfCA1_MarkupCompile.lref
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\CA2\WpfCA1\obj\Debug\MainWindow.baml
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\CA2\WpfCA1\obj\Debug\WpfCA1.g.resources
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\CA2\WpfCA1\obj\Debug\WpfCA1.Properties.Resources.resources
+C:\Users\isaia\OneDrive - Singapore Polytechnic\AY2018\Sem 2\APPD\CA2\CA2\WpfCA1\obj\Debug\WpfCA1.csproj.GenerateResource.Cache
+C:\Users\brian\Documents\CA2\WpfCA1\bin\Debug\WpfCA1.exe.config
+C:\Users\brian\Documents\CA2\WpfCA1\obj\Debug\WpfCA1.exe
+C:\Users\brian\Documents\CA2\WpfCA1\obj\Debug\WpfCA1.pdb
+C:\Users\brian\Documents\CA2\WpfCA1\bin\Debug\WpfCA1.exe
+C:\Users\brian\Documents\CA2\WpfCA1\bin\Debug\WpfCA1.pdb
+C:\Users\brian\Documents\CA2\WpfCA1\obj\Debug\WpfCA1.csprojResolveAssemblyReference.cache
+C:\Users\brian\Documents\CA2\WpfCA1\obj\Debug\MainWindow.g.cs
+C:\Users\brian\Documents\CA2\WpfCA1\obj\Debug\App.g.cs
+C:\Users\brian\Documents\CA2\WpfCA1\obj\Debug\WpfCA1_MarkupCompile.cache
+C:\Users\brian\Documents\CA2\WpfCA1\obj\Debug\WpfCA1_MarkupCompile.lref
+C:\Users\brian\Documents\CA2\WpfCA1\obj\Debug\MainWindow.baml
+C:\Users\brian\Documents\CA2\WpfCA1\obj\Debug\WpfCA1.g.resources
+C:\Users\brian\Documents\CA2\WpfCA1\obj\Debug\WpfCA1.Properties.Resources.resources
+C:\Users\brian\Documents\CA2\WpfCA1\obj\Debug\WpfCA1.csproj.GenerateResource.Cache

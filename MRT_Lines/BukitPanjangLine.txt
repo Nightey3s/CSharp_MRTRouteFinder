@@ -1,0 +1,28 @@
+BP1
+Choa Chu Kang
+BP2
+South View
+BP3
+Keat Hong
+BP4
+Teck Whye
+BP5
+Phoenix
+BP6
+Bukit Panjang
+BP7
+Petir
+BP8
+Pending
+BP9
+Bangkit
+BP10
+Fajar
+BP11
+Segar
+BP12
+Jelapang
+BP13
+Senja
+BP14
+Ten Mile Junction
